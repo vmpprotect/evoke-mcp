@@ -26,6 +26,10 @@ it talks to your kernel driver and exposes a few simple routines over HTTP:
 - intended for local tooling / reversing workflows.
 - this can be paired **really** well with [mrexodia's IDA MCP](https://github.com/mrexodia/ida-pro-mcp)
 
+## examples
+
+[Fortnite](https://github.com/vmpprotect/evoke-mcp/wiki/Fortnite-Example)
+
 ## build
 
 open the `.vcxproj` in Visual Studio and build for your target config.
