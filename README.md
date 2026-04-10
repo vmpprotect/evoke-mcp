@@ -10,7 +10,7 @@ it talks to your kernel driver and exposes a few simple routines over HTTP:
 - `read_memory`
 - `write_memory`
 - can be expanded based on your driver.
- - in theroy you can do like DLL injection, based on your prompt.
+  - in theroy you can do like DLL injection, based on your prompt.
 
 ## stack
 
